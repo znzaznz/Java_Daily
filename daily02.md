@@ -12,7 +12,7 @@ super不能跟this共存
 Object是所有类的基类
 
 继承的本质 首先看子类的属性 是否有该属性 如果没有接着看父类
-![img.png](img.png)
+![img.png](./src/img.png)
 
 super关键字 代表父类的引用，用于访问父类的属性，方法，构造器等  
 super 调用面向对象的好处 父类属性由父类初始化
